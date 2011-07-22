@@ -1,0 +1,12 @@
+
+
+NEW BENCHMARK:
+total time : 254.746 ms
+@ 0.0695 ms :: start -> base_convert : 27.3 %
+@ 0.2547 ms :: base_convert -> array_rand : 72.7 %
+
+
+NEW BENCHMARK:
+total time : 249.3951 ms
+@ 0.0649 ms :: start -> base_convert : 26 %
+@ 0.2494 ms :: base_convert -> array_rand : 74 %
